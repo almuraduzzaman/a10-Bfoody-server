@@ -1,0 +1,752 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://img.freepik.com/free-photo/young-female-cook-apron-eating-fried-mushrooms-yellow-wall_144627-66971.jpg?w=996&t=st=1683022299~exp=1683022899~hmac=a493c5a59c1b379d6740f2e2d6e45d3949e2e7f5f65d3a2e4dfa82ce3b04f632",
+        "chefName": "Rashida Azimi",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "viewRecipesButton": "https://example.com/chef1-recipes",
+        "bio": "With 10 years of experience in Afghan cuisine, Rashida Azimi is a skilled chef who specializes in traditional dishes from the northern regions of Afghanistan. She is known for her flavorful stews and hearty meat dishes, which are often served with rice or naan",
+        "recipes": [
+            {
+                "name": "Qabili Palaw",
+                "recipePhoto": "https://img.freepik.com/premium-photo/plate-yellow-rice-topped-with-mutton-meat-potatoes_141438-11.jpg?w=996",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantu",
+                "recipePhoto": "https://media.healthyfood.com/wp-content/uploads/2016/11/Afghani-lamb-mantu.jpg",
+                "ingredients": [
+                    {
+                        "1": "1 pound ground beef"
+                    },
+                    {
+                        "2": "1 package wonton wrappers"
+                    },
+                    {
+                        "3": "1 onion, finely chopped"
+                    },
+                    {
+                        "4": "1/2 teaspoon cumin"
+                    },
+                    {
+                        "5": "1/2 teaspoon coriander"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the ground beef with the chopped onion, cumin, coriander, and black pepper. Place a spoonful of the beef mixture in the center of a wonton wrapper and fold it into a small pouch. Steam the mantu for 10-15 minutes until the meat is cooked and the wrapper is tender.",
+                "rating": 4
+            },
+            {
+                "name": "Kabuli Pulao",
+                "recipePhoto": "https://afghancooks.com/wp-content/uploads/2022/07/IMG_0858_jpg-1024x576.jpg.webp",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    },
+                    {
+                        "7": "1/2 cup raisins"
+                    },
+                    {
+                        "8": "1/2 cup carrots, chopped"
+                    },
+                    {
+                        "9": "1/2 cup almonds, sliced"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes. In a separate pan, sauté the raisins, carrots, and almonds until they are lightly browned. Top the rice with the sautéed mixture before serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Bolani",
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bolani.jpg",
+                "ingredients": [
+                    {
+                        "1": "2 cups all-purpose flour"
+                    },
+                    {
+                        "2": "1/2 teaspoon salt"
+                    },
+                    {
+                        "3": "1/2 cup water"
+                    },
+                    {
+                        "4": "2 cups mashed potatoes"
+                    },
+                    {
+                        "5": "1/2 cup chopped green onions"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the flour, salt, and water to form a dough. Knead for 5 minutes, then cover and let rest for 30 minutes. In another bowl, mix the mashed potatoes, green onions, and black pepper. Roll out the dough into thin circles and place a spoonful of the potato mixture in the center of each circle. Fold the dough over and press the edges together to seal. Cook the bolani in a lightly oiled skillet over medium heat until golden brown on both sides, about 2-3 minutes per side.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://img.freepik.com/free-photo/male-chef-cook-wearing-black-uniform-cook-hat-clenching-fists-happy-positive-winner-concept-standing-pink-background_141793-54477.jpg?w=900&t=st=1683014876~exp=1683015476~hmac=416546d8a09ef4d9ff586e0c8ad9c927fedecb54f57b62d7730ccd487f3f677f",
+        "chefName": "Gulzar Hussain",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 100,
+        "likes": 2000,
+        "viewRecipesButton": "https://example.com/chef6-recipes",
+        "bio": "With 15 years of experience as a chef, Gulzar Hussain is a true master of Afghan cuisine. He is known for his exceptional skills in both traditional and contemporary cooking techniques, and his dishes are renowned for their bold flavors and stunning presentation.",
+        "recipes": [
+            {
+                "name": "Qabili Palaw",
+                "recipePhoto": "https://img.freepik.com/premium-photo/plate-yellow-rice-topped-with-mutton-meat-potatoes_141438-11.jpg?w=996",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantu",
+                "recipePhoto": "https://media.healthyfood.com/wp-content/uploads/2016/11/Afghani-lamb-mantu.jpg",
+                "ingredients": [
+                    {
+                        "1": "1 pound ground beef"
+                    },
+                    {
+                        "2": "1 package wonton wrappers"
+                    },
+                    {
+                        "3": "1 onion, finely chopped"
+                    },
+                    {
+                        "4": "1/2 teaspoon cumin"
+                    },
+                    {
+                        "5": "1/2 teaspoon coriander"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the ground beef with the chopped onion, cumin, coriander, and black pepper. Place a spoonful of the beef mixture in the center of a wonton wrapper and fold it into a small pouch. Steam the mantu for 10-15 minutes until the meat is cooked and the wrapper is tender.",
+                "rating": 4
+            },
+            {
+                "name": "Kabuli Pulao",
+                "recipePhoto": "https://afghancooks.com/wp-content/uploads/2022/07/IMG_0858_jpg-1024x576.jpg.webp",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    },
+                    {
+                        "7": "1/2 cup raisins"
+                    },
+                    {
+                        "8": "1/2 cup carrots, chopped"
+                    },
+                    {
+                        "9": "1/2 cup almonds, sliced"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes. In a separate pan, sauté the raisins, carrots, and almonds until they are lightly browned. Top the rice with the sautéed mixture before serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Bolani",
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bolani.jpg",
+                "ingredients": [
+                    {
+                        "1": "2 cups all-purpose flour"
+                    },
+                    {
+                        "2": "1/2 teaspoon salt"
+                    },
+                    {
+                        "3": "1/2 cup water"
+                    },
+                    {
+                        "4": "2 cups mashed potatoes"
+                    },
+                    {
+                        "5": "1/2 cup chopped green onions"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the flour, salt, and water to form a dough. Knead for 5 minutes, then cover and let rest for 30 minutes. In another bowl, mix the mashed potatoes, green onions, and black pepper. Roll out the dough into thin circles and place a spoonful of the potato mixture in the center of each circle. Fold the dough over and press the edges together to seal. Cook the bolani in a lightly oiled skillet over medium heat until golden brown on both sides, about 2-3 minutes per side.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-keeps-fist-up-isolated-orange-wall_141793-33509.jpg?w=900&t=st=1683021960~exp=1683022560~hmac=3705344e86e841a6a5c7398ae5fac2b73f516a472146afd7b65f95f3e208907b",
+        "chefName": "Farida Nazari",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 70,
+        "likes": 1200,
+        "viewRecipesButton": "https://example.com/chef3-recipes",
+        "bio": "Farida Nazari has over 12 years of experience as a chef, and is recognized as one of the top Afghan chefs in the country. She is known for her creative use of spices and herbs, and specializes in creating dishes that are both healthy and flavorful.",
+        "recipes": [
+            {
+                "name": "Qabili Palaw",
+                "recipePhoto": "https://img.freepik.com/premium-photo/plate-yellow-rice-topped-with-mutton-meat-potatoes_141438-11.jpg?w=996",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantu",
+                "recipePhoto": "https://media.healthyfood.com/wp-content/uploads/2016/11/Afghani-lamb-mantu.jpg",
+                "ingredients": [
+                    {
+                        "1": "1 pound ground beef"
+                    },
+                    {
+                        "2": "1 package wonton wrappers"
+                    },
+                    {
+                        "3": "1 onion, finely chopped"
+                    },
+                    {
+                        "4": "1/2 teaspoon cumin"
+                    },
+                    {
+                        "5": "1/2 teaspoon coriander"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the ground beef with the chopped onion, cumin, coriander, and black pepper. Place a spoonful of the beef mixture in the center of a wonton wrapper and fold it into a small pouch. Steam the mantu for 10-15 minutes until the meat is cooked and the wrapper is tender.",
+                "rating": 4
+            },
+            {
+                "name": "Kabuli Pulao",
+                "recipePhoto": "https://afghancooks.com/wp-content/uploads/2022/07/IMG_0858_jpg-1024x576.jpg.webp",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    },
+                    {
+                        "7": "1/2 cup raisins"
+                    },
+                    {
+                        "8": "1/2 cup carrots, chopped"
+                    },
+                    {
+                        "9": "1/2 cup almonds, sliced"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes. In a separate pan, sauté the raisins, carrots, and almonds until they are lightly browned. Top the rice with the sautéed mixture before serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Bolani",
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bolani.jpg",
+                "ingredients": [
+                    {
+                        "1": "2 cups all-purpose flour"
+                    },
+                    {
+                        "2": "1/2 teaspoon salt"
+                    },
+                    {
+                        "3": "1/2 cup water"
+                    },
+                    {
+                        "4": "2 cups mashed potatoes"
+                    },
+                    {
+                        "5": "1/2 cup chopped green onions"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the flour, salt, and water to form a dough. Knead for 5 minutes, then cover and let rest for 30 minutes. In another bowl, mix the mashed potatoes, green onions, and black pepper. Roll out the dough into thin circles and place a spoonful of the potato mixture in the center of each circle. Fold the dough over and press the edges together to seal. Cook the bolani in a lightly oiled skillet over medium heat until golden brown on both sides, about 2-3 minutes per side.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://img.freepik.com/premium-photo/young-happy-chef-girl-white-outfit-having-tools-indian-pakistani-model_561639-4628.jpg",
+        "chefName": "Hadiqa Khattak",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 500,
+        "viewRecipesButton": "https://example.com/chef4-recipes",
+        "bio": "Hadiqa Khattak has been cooking Afghan food for 5 years and has a talent for creating simple, home-style dishes that are packed with flavor. Her recipes often feature bold spices and fragrant herbs, and are perfect for those looking for authentic Afghan comfort food.",
+        "recipes": [
+            {
+                "name": "Qabili Palaw",
+                "recipePhoto": "https://img.freepik.com/premium-photo/plate-yellow-rice-topped-with-mutton-meat-potatoes_141438-11.jpg?w=996",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantu",
+                "recipePhoto": "https://media.healthyfood.com/wp-content/uploads/2016/11/Afghani-lamb-mantu.jpg",
+                "ingredients": [
+                    {
+                        "1": "1 pound ground beef"
+                    },
+                    {
+                        "2": "1 package wonton wrappers"
+                    },
+                    {
+                        "3": "1 onion, finely chopped"
+                    },
+                    {
+                        "4": "1/2 teaspoon cumin"
+                    },
+                    {
+                        "5": "1/2 teaspoon coriander"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the ground beef with the chopped onion, cumin, coriander, and black pepper. Place a spoonful of the beef mixture in the center of a wonton wrapper and fold it into a small pouch. Steam the mantu for 10-15 minutes until the meat is cooked and the wrapper is tender.",
+                "rating": 4
+            },
+            {
+                "name": "Kabuli Pulao",
+                "recipePhoto": "https://afghancooks.com/wp-content/uploads/2022/07/IMG_0858_jpg-1024x576.jpg.webp",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    },
+                    {
+                        "7": "1/2 cup raisins"
+                    },
+                    {
+                        "8": "1/2 cup carrots, chopped"
+                    },
+                    {
+                        "9": "1/2 cup almonds, sliced"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes. In a separate pan, sauté the raisins, carrots, and almonds until they are lightly browned. Top the rice with the sautéed mixture before serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Bolani",
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bolani.jpg",
+                "ingredients": [
+                    {
+                        "1": "2 cups all-purpose flour"
+                    },
+                    {
+                        "2": "1/2 teaspoon salt"
+                    },
+                    {
+                        "3": "1/2 cup water"
+                    },
+                    {
+                        "4": "2 cups mashed potatoes"
+                    },
+                    {
+                        "5": "1/2 cup chopped green onions"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the flour, salt, and water to form a dough. Knead for 5 minutes, then cover and let rest for 30 minutes. In another bowl, mix the mashed potatoes, green onions, and black pepper. Roll out the dough into thin circles and place a spoonful of the potato mixture in the center of each circle. Fold the dough over and press the edges together to seal. Cook the bolani in a lightly oiled skillet over medium heat until golden brown on both sides, about 2-3 minutes per side.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://img.freepik.com/free-photo/pleased-young-beautiful-girl-chef-uniform-points-with-hand-side-isolated-orange-wall_141793-126613.jpg?w=900&t=st=1683022442~exp=1683023042~hmac=33c94b9a73178a7e75b1ed6b5382a987bfb732f34fed8ecac1e69f53823a6cb5",
+        "chefName": "Zainab Aziz",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 40,
+        "likes": 900,
+        "viewRecipesButton": "https://example.com/chef5-recipes",
+        "bio": "Zainab Aziz is a skilled Afghan chef with 7 years of experience. She specializes in creating elegant, sophisticated dishes that are perfect for special occasions or dinner parties. Her recipes often feature complex flavors and textures, and are sure to impress even the most discerning diners.",
+        "recipes": [
+            {
+                "name": "Qabili Palaw",
+                "recipePhoto": "https://img.freepik.com/premium-photo/plate-yellow-rice-topped-with-mutton-meat-potatoes_141438-11.jpg?w=996",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantu",
+                "recipePhoto": "https://media.healthyfood.com/wp-content/uploads/2016/11/Afghani-lamb-mantu.jpg",
+                "ingredients": [
+                    {
+                        "1": "1 pound ground beef"
+                    },
+                    {
+                        "2": "1 package wonton wrappers"
+                    },
+                    {
+                        "3": "1 onion, finely chopped"
+                    },
+                    {
+                        "4": "1/2 teaspoon cumin"
+                    },
+                    {
+                        "5": "1/2 teaspoon coriander"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the ground beef with the chopped onion, cumin, coriander, and black pepper. Place a spoonful of the beef mixture in the center of a wonton wrapper and fold it into a small pouch. Steam the mantu for 10-15 minutes until the meat is cooked and the wrapper is tender.",
+                "rating": 4
+            },
+            {
+                "name": "Kabuli Pulao",
+                "recipePhoto": "https://afghancooks.com/wp-content/uploads/2022/07/IMG_0858_jpg-1024x576.jpg.webp",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    },
+                    {
+                        "7": "1/2 cup raisins"
+                    },
+                    {
+                        "8": "1/2 cup carrots, chopped"
+                    },
+                    {
+                        "9": "1/2 cup almonds, sliced"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes. In a separate pan, sauté the raisins, carrots, and almonds until they are lightly browned. Top the rice with the sautéed mixture before serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Bolani",
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bolani.jpg",
+                "ingredients": [
+                    {
+                        "1": "2 cups all-purpose flour"
+                    },
+                    {
+                        "2": "1/2 teaspoon salt"
+                    },
+                    {
+                        "3": "1/2 cup water"
+                    },
+                    {
+                        "4": "2 cups mashed potatoes"
+                    },
+                    {
+                        "5": "1/2 cup chopped green onions"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the flour, salt, and water to form a dough. Knead for 5 minutes, then cover and let rest for 30 minutes. In another bowl, mix the mashed potatoes, green onions, and black pepper. Roll out the dough into thin circles and place a spoonful of the potato mixture in the center of each circle. Fold the dough over and press the edges together to seal. Cook the bolani in a lightly oiled skillet over medium heat until golden brown on both sides, about 2-3 minutes per side.",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://img.freepik.com/free-photo/pleased-young-male-cook-wearing-chef-uniform-glasses-holding-out-hand-isolated-pink-wall_141793-78422.jpg?w=900&t=st=1683022036~exp=1683022636~hmac=728c42094afee34ec6fc4dd490fb0616d7cc1359ceadb86ee3dfe4d1b63684c6",
+        "chefName": "Habib Khan",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 30,
+        "likes": 750,
+        "viewRecipesButton": "https://example.com/chef2-recipes",
+        "bio": "Habib Khan has been cooking Afghan food for 8 years and has a passion for using fresh, locally sourced ingredients in his recipes. He enjoys experimenting with different flavors and textures, and is particularly skilled at creating vegetarian and vegan dishes that are both nutritious and delicious.",
+        "recipes": [
+            {
+                "name": "Qabili Palaw",
+                "recipePhoto": "https://img.freepik.com/premium-photo/plate-yellow-rice-topped-with-mutton-meat-potatoes_141438-11.jpg?w=996",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes.",
+                "rating": 4.5
+            },
+            {
+                "name": "Mantu",
+                "recipePhoto": "https://media.healthyfood.com/wp-content/uploads/2016/11/Afghani-lamb-mantu.jpg",
+                "ingredients": [
+                    {
+                        "1": "1 pound ground beef"
+                    },
+                    {
+                        "2": "1 package wonton wrappers"
+                    },
+                    {
+                        "3": "1 onion, finely chopped"
+                    },
+                    {
+                        "4": "1/2 teaspoon cumin"
+                    },
+                    {
+                        "5": "1/2 teaspoon coriander"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the ground beef with the chopped onion, cumin, coriander, and black pepper. Place a spoonful of the beef mixture in the center of a wonton wrapper and fold it into a small pouch. Steam the mantu for 10-15 minutes until the meat is cooked and the wrapper is tender.",
+                "rating": 4
+            },
+            {
+                "name": "Kabuli Pulao",
+                "recipePhoto": "https://afghancooks.com/wp-content/uploads/2022/07/IMG_0858_jpg-1024x576.jpg.webp",
+                "ingredients": [
+                    {
+                        "1": "2 cups basmati rice"
+                    },
+                    {
+                        "2": "2 pounds lamb meat, cut into small pieces"
+                    },
+                    {
+                        "3": "2 large onions, sliced"
+                    },
+                    {
+                        "4": "1/2 cup vegetable oil"
+                    },
+                    {
+                        "5": "1/2 teaspoon cumin seeds"
+                    },
+                    {
+                        "6": "1 teaspoon salt"
+                    },
+                    {
+                        "7": "1/2 cup raisins"
+                    },
+                    {
+                        "8": "1/2 cup carrots, chopped"
+                    },
+                    {
+                        "9": "1/2 cup almonds, sliced"
+                    }
+                ],
+                "cooking_method": "Rinse the rice and soak it in water for 30 minutes. In a large pot, sauté the onions in vegetable oil until caramelized. Add the lamb meat and cumin seeds, and cook until the meat is browned. Add enough water to cover the meat, season with salt, and simmer for 1 hour. Drain the rice and add it to the pot with the meat and broth. Cook over low heat until the rice is tender and has absorbed all the liquid, about 20-30 minutes. In a separate pan, sauté the raisins, carrots, and almonds until they are lightly browned. Top the rice with the sautéed mixture before serving.",
+                "rating": 4.5
+            },
+            {
+                "name": "Bolani",
+                "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bolani.jpg",
+                "ingredients": [
+                    {
+                        "1": "2 cups all-purpose flour"
+                    },
+                    {
+                        "2": "1/2 teaspoon salt"
+                    },
+                    {
+                        "3": "1/2 cup water"
+                    },
+                    {
+                        "4": "2 cups mashed potatoes"
+                    },
+                    {
+                        "5": "1/2 cup chopped green onions"
+                    },
+                    {
+                        "6": "1/2 teaspoon ground black pepper"
+                    }
+                ],
+                "cooking_method": "In a bowl, mix the flour, salt, and water to form a dough. Knead for 5 minutes, then cover and let rest for 30 minutes. In another bowl, mix the mashed potatoes, green onions, and black pepper. Roll out the dough into thin circles and place a spoonful of the potato mixture in the center of each circle. Fold the dough over and press the edges together to seal. Cook the bolani in a lightly oiled skillet over medium heat until golden brown on both sides, about 2-3 minutes per side.",
+                "rating": 3
+            }
+        ]
+    }
+]
